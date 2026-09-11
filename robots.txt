@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ruglerugle.github.io/quantum-map/sitemap.xml
